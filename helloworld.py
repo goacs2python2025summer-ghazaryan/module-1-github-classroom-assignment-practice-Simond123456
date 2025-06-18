@@ -1,0 +1,6 @@
+print('\nhello world')
+print()
+print("My name is Simond. I'm a rising sophomore and live in Singapore. I like to play soccer")
+print("I haven't done much over the break yet")
+print()
+print()
